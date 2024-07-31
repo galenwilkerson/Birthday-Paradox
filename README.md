@@ -1,8 +1,8 @@
-# Birthday Paradox
+# Birthday Paradox and other Combinatorial and Probability Problems
 
 <img src="./birthday_graph.png" width="450" height="460">
 
-This repository contains a Jupyter Notebook that explores and visualizes the Birthday Paradox. The Birthday Paradox is a famous problem in probability theory that demonstrates how our intuition about probabilities can be misleading. It states that in a group of just 23 people, there is a better than even chance that at least two people share the same birthday.
+This repository contains a Jupyter Notebook that explores and visualizes the Birthday Paradox and other Combinatorial Problems. The Birthday Paradox is a famous problem in probability theory that demonstrates how our intuition about probabilities can be misleading. It states that in a group of just 23 people, there is a better than even chance that at least two people share the same birthday.
 
 ## Contents
 
